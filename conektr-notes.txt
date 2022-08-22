@@ -1,0 +1,13 @@
+1.Admin portal--sales---orders--order id-----status(view)---manageitem status---
+
+2.id---order details---delivered--cash---ok--updating---image--signature--submit--completed order page---delivered---refresh
+
+3.order--filter--pending orders--any check box(id)--create invoice-change order status(complete)--process
+
+
+Delivery app
+
+Assign driver to order--filter--orderid-- action->assigned---driver username(auh2)---
+   trip no(any)(can use the number one time a day)---route(any)(can use the number one time a day)
+
+000061633
